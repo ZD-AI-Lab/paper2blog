@@ -1,5 +1,5 @@
-提示词如下：
-'''
+### 论文转博客提示词 :clipboard: 
+```
 ##placeholder1
 ###placeholder1
-'''
+```
